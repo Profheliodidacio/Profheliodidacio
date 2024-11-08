@@ -2,13 +2,13 @@
 ## Olá! Eu sou Hélio Lima 👋
 
 ### Sobre mim
-- 📚 **Professor** na escola [CETI Didácio Silva](link-da-escola)
+- 📚 **Professor** na escola [CETI Didácio Silva]([link-da-escola](https://qedu.org.br/escola/22027475-ceti-didacio-silva))
 - 🎓 **Graduado em** Ciência da Computação
 - 👨‍🏫 **Professor do curso de** Desenvolvimento de Sistemas
 
 ### Projetos
 Aqui estão alguns dos meus projetos:
-- [BemStarE]([link-do-projeto-1](https://github.com/Profheliodidacio/BemStarE)
+- [BemStarE](https://github.com/Profheliodidacio/BemStarE)
 - [BemStarEpy](https://github.com/Profheliodidacio/BemStarEpy))
 - [Projeto 3](link-do-projeto-3)
 
