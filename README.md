@@ -8,8 +8,8 @@
 
 ### Projetos
 Aqui estão alguns dos meus projetos:
-- [Projeto 1](link-do-projeto-1)
-- [Projeto 2](link-do-projeto-2)
+- [BemStarE](link-do-projeto-1)
+- [BemStarEpy](link-do-projeto-2)
 - [Projeto 3](link-do-projeto-3)
 
 ### Redes Sociais
