@@ -9,8 +9,8 @@
 ### Projetos
 Aqui estão alguns dos meus projetos:
 - [BemStarE](https://github.com/Profheliodidacio/BemStarE)
-- [BemStarEpy](https://github.com/Profheliodidacio/BemStarEpy))
-- [Projeto 3](link-do-projeto-3)
+- [BemStarEpy](https://github.com/Profheliodidacio/BemStarEpy)
+- [DonaLink](https://github.com/Profheliodidacio/DonaLink)
 
 ### Redes Sociais
 - [LinkedIn](link-do-linkedin)
